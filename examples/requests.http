@@ -1,0 +1,1 @@
+GET user1:password1@localhost:8080/?clients=1,2

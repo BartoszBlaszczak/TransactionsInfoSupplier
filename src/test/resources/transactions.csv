@@ -1,0 +1,4 @@
+transaction_id,transaction_amount,customer_first_name,customer_id,customer_last_name,transaction_date
+777,"243,33",Andrzej,1,Andrzejowski,11.12.2020 14:57:22
+778,"199,11",Andrzej,1,Andrzejowski,01.12.2020 13:22:11
+300,"212,00",Anna,2,Zaradna,01.12.2020 01:01:00
